@@ -1,4 +1,4 @@
-#About 
+# About 
 I felt a very flexible approch would be best so the database is simply being used to store json objects
 see the EER diagram: dtabase_eer_diagram.png
 
